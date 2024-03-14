@@ -22,7 +22,9 @@ Being in enterprise I have always loathe and loved the word "workflow". Having b
 
 #### How things happen are not how things are done
 
-#### Don't through out the alpha with the hype
+Operations are never a flow. They are a maelstrom of decisions, exceptions, and human interactions. Building AI on a flow is a fool's errand. Developing AI on how things are done is the only way to make it useful. Leveraing that to connect the dots of your operations is the only way to make it an alpha. A unique implementation your competition can't buy.
+
+#### Don't throw out the alpha with the hype
 
 It's tempting to be binary on gen ai. It's either the future or it's a fad. There is a middle ground.
 A practical stance for you to corner your market and expand from what you know how to do better than anyone else.
